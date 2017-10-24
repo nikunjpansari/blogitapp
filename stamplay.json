@@ -1,0 +1,10 @@
+{
+  "appId": "blogit",
+  "apiKey": "3c3d785a8ff49490775db5fb21f874c5ef30cb030cad1cf0cce67a607d5be0f8",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
