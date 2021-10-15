@@ -1,1 +1,1 @@
-Project source for Intershala students.
+Angular JS Based Blogging App deployed using Stamplay.
